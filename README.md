@@ -31,10 +31,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-- :telescope: I’m studyng at IFPE.
+- :telescope: I’m graduated at IFPE.
 
-- :seedling: web development.
+- :seedling: Full-Stack development.
 
 - :zap: I like study Computer vision.
 
-- :mailbox:How to reach me: william.roberto39@hotmail.com
+- :mailbox: How to reach me: william.roberto39@hotmail.com
