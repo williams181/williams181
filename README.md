@@ -33,7 +33,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-- :telescope: I’m graduated at UFPE.
+- :telescope: I’m graduated at IFPE.
+  
+ - :telescope: I’m studying at UFPE.
 
 - :seedling: Full-Stack development and Software Test.
 
