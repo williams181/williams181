@@ -35,10 +35,10 @@
 
 - :telescope: I’m graduated at IFPE.
   
- - :telescope: I’m studying at UFPE.
+- :telescope: I’m studying at UFPE.
 
-- :seedling: Full-Stack development and Software Test.
+- :seedling: Full-Stack Development / Software Test.
 
-- :zap: I like study Computer vision.
+- :zap: I like study Computer Vision.
 
-- :mailbox: How to reach me: william.roberto39@hotmail.com
+- :mailbox: How to reach me: william.roberto39@hotmail.com / https://williamroberto39.wixsite.com/williamroberto39
